@@ -8,7 +8,7 @@ import (
 )
 
 func Database() (*gorm.DB, error) {
-	db, err := gorm.Open(mysql.Open("./database.db"), &gorm.Config{})
+	db, err := gorm.Open(mysql.Open("./"), &gorm.Config{})
 
 	if err != nil {
 		log.Fatal(err.Error())

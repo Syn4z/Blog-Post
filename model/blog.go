@@ -7,5 +7,5 @@ import (
 type Article struct {
 	gorm.Model
 	Name   string `json:"name"`
-	Number int    `json:"articles"`
+	Number int    `json:"number"`
 }
