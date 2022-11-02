@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/Syn4z/Blog-Post/blog"
+	blog "github.com/Syn4z/Blog-Post/controller"
 	"github.com/Syn4z/Blog-Post/model"
 )
 
