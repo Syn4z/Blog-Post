@@ -1,9 +1,10 @@
 package blog
 
 import (
-	"blogPost/model"
 	"log"
 	"net/http"
+
+	"github.com/Syn4z/Blog-Post/model"
 
 	"github.com/gin-gonic/gin"
 )

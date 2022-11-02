@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"blogPost/model"
+	"github.com/Syn4z/Blog-Post/model"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module blogPost
+module github.com/Syn4z/Blog-Post
 
 go 1.19
 
