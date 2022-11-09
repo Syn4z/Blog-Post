@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/Syn4z/Blog-Post/controller/blog"
-	"github.com/Syn4z/Blog-Post/model"
+	"github.com/Syn4z/Blog-Post/app/controller/blog"
+	"github.com/Syn4z/Blog-Post/app/model"
 )
 
 func main() {
