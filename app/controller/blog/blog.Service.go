@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Syn4z/Blog-Post/model"
+	"github.com/Syn4z/Blog-Post/app/model"
 
 	"github.com/gin-gonic/gin"
 )
